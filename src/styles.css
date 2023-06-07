@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 0 10px;
+}
+.flex {
+  display: flex;
+}
+
+.active {
+  color: orangered;
+}
+* {
+  margin-bottom: 10px;
+}
+button {
+  display: block;
+}
+span,
+a,
+button {
+  margin-left: 10px;
+}
+ol {
+  padding-bottom: 20px;
+}
+li {
+  text-align: left;
+}
+span.orange {
+  font-size: 12px;
+  color: orangered;
+}
